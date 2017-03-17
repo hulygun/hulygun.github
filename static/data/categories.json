@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "блокнот",
+    "icon": "assignment",
+    "color": "#d6b33a",
+    "count": 13
+  },
+  {
+    "id": 2,
+    "name": "в поисках истины",
+    "icon": "pan_tool",
+    "color": "#524d9c",
+    "count": 75
+  },
+  {
+    "id": 3,
+    "name": "есть идея!",
+    "icon": "lightbulb_outline",
+    "color": "#d7d00a",
+    "count": 75
+  },
+  {
+    "id": 4,
+    "name": "жизнь простых вещей",
+    "icon": "school",
+    "color": "#66cdaa",
+    "count": 75
+  },
+  {
+    "id": 5,
+    "name": "лаборатория",
+    "icon": "extension",
+    "color": "#ee1f34",
+    "count": 75
+  },
+  {
+    "id": 6,
+    "name": "по ту сторону",
+    "icon": "directions_run",
+    "color": "#7d6677",
+    "count": 75
+  }
+]
